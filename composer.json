@@ -1,0 +1,12 @@
+{
+    "name": "blink-cli/ansi",
+    "description": "An Ansi helper that includes a fluent Ansi string builder.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aidan Casey",
+            "email": "aidan.casey@anteris.com"
+        }
+    ],
+    "require": {}
+}
